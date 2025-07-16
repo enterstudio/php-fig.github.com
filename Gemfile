@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'html-proofer', '~>1.5'
-gem 'jekyll-redirect-from'
+gem 'github-pages', '>= 44'
+gem 'html-proofer', '~> 3.15', '>= 3.15.0'
+gem 'jekyll-redirect-from', '>= 0.7.0'
